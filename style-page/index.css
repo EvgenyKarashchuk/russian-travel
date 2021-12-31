@@ -6,6 +6,9 @@
 /* Style block PAGE */
 @import url(../blocks/page/page.css);
 
+/* Style block CONTAINER */
+@import url(../blocks/container/container.css);
+
 /* Style block HEADER */
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
@@ -17,3 +20,13 @@
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
+
+/*Style block INTRO */
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__list/intro__list.css);
+@import url(../blocks/intro/__li/intro__li.css);
+
+/* Style block PHOTO-GRID */
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
