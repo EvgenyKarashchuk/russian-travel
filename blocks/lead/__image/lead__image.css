@@ -1,0 +1,11 @@
+.lead__image {
+  background: url(../../../images/lead-polka.jpg) no-repeat center / contain;
+  width: 100%;
+  padding-bottom: 64%;
+  margin: 64px 0 8px 0;
+}
+@media screen and (max-width: 425px) {
+  .lead__image {
+    margin: 40px 0 8px 0;
+  }
+}
