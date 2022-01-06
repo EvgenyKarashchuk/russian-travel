@@ -1,0 +1,8 @@
+.footer__li {
+  margin-right: 18px;
+}
+@media screen and (max-width: 645px) {
+  .footer__li:not(.footer__li:last-child) {
+    margin-bottom: 32px;
+  }
+}
