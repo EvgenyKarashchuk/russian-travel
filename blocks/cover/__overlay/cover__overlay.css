@@ -12,6 +12,6 @@
   -o-transition: opacity 0.3s linear;
   transition: opacity 0.3s linear;
 }
-.cover:hover {
+.cover__overlay:hover {
   opacity: 0.8;
 }
